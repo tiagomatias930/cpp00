@@ -35,14 +35,14 @@ Para compilar os arquivos C++ presentes neste repositório, siga os passos abaix
    cd cpp00
    ```
 
-3. Compile os arquivos C++ usando o make`:
+3. Compile os arquivos C++ usando o make:
    ```bash
     make
    ```
 
 4. Execute o programa gerado:
    ```bash
-   ./cpp00
+   ./executavel
    ```
 
 ## Estrutura de Diretórios
@@ -51,10 +51,9 @@ O projeto contém os seguintes arquivos:
 
 ```
 cpp00/
-├── main.cpp           # Função principal do programa
-├── classe.cpp         # Implementação da classe
-├── classe.hpp         # Declaração da classe
-└── README.md          # Este arquivo
+├── ex00  
+├── ex01  
+└── README.md
 ```
 
 ## Contribuições
